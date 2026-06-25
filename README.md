@@ -1,7 +1,7 @@
 ![Banner de Gerald](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=02569B&width=600&lines=%C2%A1Hola!+Soy+Gerald+Hurtado+;Ingeniero+en+Sistemas+;Mobile+Developer+%26+Data+Science)
 
 ### 🚀 Conectemos:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-hurtado-rojas-148313267) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geralr230603@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gerald-hurtado-rojas-148313267/) &nbsp;&nbsp; [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:geralr230603@gmail.com)
 ---
 ## 👨‍💻 Sobre Mí
 
